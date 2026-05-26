@@ -2,12 +2,11 @@
 
 I'm a CS+Stats student at the University of Winnipeg working toward a career in **data engineering**.
 
-I spend most of my time turning messy, real-world data problems into
-pipelines that run on a schedule with deep emphasis about
-understanding *why* something works and be built a certain way.
+I spend most of my time turning messy, real-world data problems into pipelines that run on a schedule, caring about *why* something works more than fast shipment
+
 ---
 
-#### What I mostly work with
+#### What I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,7 +18,6 @@ understanding *why* something works and be built a certain way.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ---
 
 #### Currently building
@@ -29,14 +27,14 @@ understanding *why* something works and be built a certain way.
 - Scheduled ingestion from multiple job board sources
 - Bronze -> Silver -> Gold transformation layers
 - PostgreSQL storage with a trend dashboard on top
-- Driving the architecture decisions myself; utilizing claude to assist
+- Driving the architecture decisions myself; AI handles boilerplates
 
 ---
 
 #### At work
 
-- Co-Founder at **Pixel Buddy Solutions**, where I also build the internal tooling - most notably a TimeCamp API reporting automation that handles timezone logic, billing-risk edge cases, and automated client hours reporting system.
-- Support Technician at Activate Games, where I assist in maintaining facility operations across all gamerooms worldwide
+- Co-Founder at **Pixel Buddy Solutions**, where I also build the internal tooling - most notably a [TimeCamp API reporting automation](https://github.com/yucompiled/timecamp-reporting-writeup) that handles timezone logic, billing-risk edge cases, and automated PDF reports.
+- Support Technician at Activate Games, where I assist in maintaining facility operations across all game rooms worldwide
 
 ---
 
