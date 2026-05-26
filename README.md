@@ -8,12 +8,18 @@ understanding *why* something works and be built a certain way.
 ---
 
 #### What I mostly work with
-
-**Languages:** Python, SQL, Java, JavaScript  
-**Data:** PostgreSQL, pandas, REST APIs, Bronze/Silver/Gold modeling  
-**Infra:** Docker, Ubuntu Server, Airflow, Git  
-**Other:** Next.js, Supabase, Tailwind  
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ---
 
 #### Currently building
@@ -29,11 +35,12 @@ understanding *why* something works and be built a certain way.
 
 #### At work
 
-Co-Founder at **Pixel Buddy Solutions**, where I also build the internal tooling — most notably a TimeCamp API reporting automation that handles timezone logic, billing-risk edge cases, and automated client hours reporting system.
+- Co-Founder at **Pixel Buddy Solutions**, where I also build the internal tooling - most notably a TimeCamp API reporting automation that handles timezone logic, billing-risk edge cases, and automated client hours reporting system.
+- Support Technician at Activate Games, where I assist in maintaining facility operations across all gamerooms worldwide
 
 ---
 
 #### Reach me
 
-- **[yukarlandrew@icloud.com]**
-- **[https://www.linkedin.com/in/yu-karl/]**
+- **[yukarlandrew@icloud.com](mailto:yukarlandrew@icloud.com)**
+- **[linkedin.com/in/yu-karl](https://www.linkedin.com/in/yu-karl/)**
