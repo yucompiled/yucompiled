@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi, I'm Karl!
 
-<!--
-**yucompiled/yucompiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS+Stats student at the University of Winnipeg working toward a career in **data engineering**.
 
-Here are some ideas to get you started:
+I spend most of my time turning messy, real-world data problems into
+pipelines that run on a schedule with deep emphasis about
+understanding *why* something works and be built a certain way.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I mostly work with
+
+**Languages:** Python, SQL, Java, JS
+**Data:** PostgreSQL, pandas, REST APIs, Bronze/Silver/Gold modeling
+**Infra:** Docker, Ubuntu Server, Airflow, Git
+**Other:** Next.js, Supabase, Tailwind
+
+---
+
+#### Currently building
+
+**[job-industry-trend-tracker](https://github.com/yucompiled/job-industry-trend-tracker)** - a live data engineering pipeline tracking skill demand, salary trends, and job posting volume across IT, Finance, and Engineering in the US and Canada.
+
+- Scheduled ingestion from multiple job board sources
+- Bronze -> Silver -> Gold transformation layers
+- PostgreSQL storage with a trend dashboard on top
+- Driving the architecture decisions myself; utilizing claude to assist
+
+---
+
+#### At work
+
+Co-Founder at **Pixel Buddy Solutions**, where I also build the internal tooling — most notably a TimeCamp API reporting automation that handles timezone logic, billing-risk edge cases, and automated client hours reporting system.
+
+---
+
+#### Reach me
+
+- **[yukarlandrew@icloud.com]**
+- **[https://www.linkedin.com/in/yu-karl/]**
