@@ -9,10 +9,10 @@ understanding *why* something works and be built a certain way.
 
 #### What I mostly work with
 
-**Languages:** Python, SQL, Java, JS
-**Data:** PostgreSQL, pandas, REST APIs, Bronze/Silver/Gold modeling
-**Infra:** Docker, Ubuntu Server, Airflow, Git
-**Other:** Next.js, Supabase, Tailwind
+**Languages:** Python, SQL, Java, JavaScript  
+**Data:** PostgreSQL, pandas, REST APIs, Bronze/Silver/Gold modeling  
+**Infra:** Docker, Ubuntu Server, Airflow, Git  
+**Other:** Next.js, Supabase, Tailwind  
 
 ---
 
