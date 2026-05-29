@@ -2,7 +2,7 @@
 
 I'm a CS+Stats student at the University of Winnipeg working toward a career in **data engineering**.
 
-I spend most of my time turning messy, real-world data problems into pipelines that run on a schedule, caring about *why* something works more than fast shipment
+I work across the stack - data pipelines, internal tools, client-facing apps; wherever there's a messy problem that needs a system behind it.
 
 ---
 
@@ -29,11 +29,19 @@ I spend most of my time turning messy, real-world data problems into pipelines t
 - PostgreSQL storage with a trend dashboard on top
 - Driving the architecture decisions myself; AI handles boilerplates
 
+**[portal](https://github.com/yucompiled/portal)** *(private internal repo)* - multi-role client portal for Pixel Buddy Solutions; clients track pipeline data and VA hours, VAs manage tasks across clients, admins have full visibility and account control.
+- Next.js 16 (App Router, TypeScript) + Supabase (Postgres, Auth, RLS)
+- GoHighLevel webhook integration for live pipeline sync; TimeCamp cron for daily VA hours
+- Role-based access enforced at three layers: RLS, middleware, and page guards
+- Task management with file attachments, custom categories, and VA assignment
+
 ---
 
 #### At work
-
-- Co-Founder at **Pixel Buddy Solutions**, where I also build the internal tooling - most notably a [TimeCamp API reporting automation](https://github.com/yucompiled/timecamp-reporting-writeup) that handles timezone logic, billing-risk edge cases, and automated PDF reports.
+- Co-Founder at **Pixel Buddy Solutions**, where I build the internal tooling - most notably a
+  [client portal](https://github.com/yucompiled/portal) (multi-role, RLS-secured, GoHighLevel + TimeCamp integrations)
+  and a [TimeCamp API reporting automation](https://github.com/yucompiled/timecamp-reporting-writeup)
+  that handles timezone logic, billing-risk edge cases, and automated PDF reports.
 - Support Technician at Activate Games, where I assist in maintaining facility operations across all game rooms worldwide
 
 ---
